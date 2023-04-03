@@ -9,7 +9,7 @@
 ## My Contacts:<a href="https://www.instagram.com/samuel_woods59/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam woods" height="30" width="40" /></a>
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=991F86&repeat=false&width=435&lines=My+Project+on+Java)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=991F86&repeat=false&width=435&lines=My+Project+on+Java:)
 
 
 <img src="https://i.pinimg.com/originals/e4/4d/95/e44d9577ec2b2752bacc74699178195f.gif" width="500" height="250"/>
