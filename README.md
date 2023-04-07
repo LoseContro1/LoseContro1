@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=LoseContro1&color=blueviolet&style=plastic)
 
-<img src="https://im.wampi.ru/2023/04/07/javc.png" alt="javc.png" height="220" width="350" align="left">
+<img src="https://im.wampi.ru/2023/04/07/javc.png" alt="javc.png" height="250" width="350" align="left">
 
 <img src="https://i.pinimg.com/originals/e4/4d/95/e44d9577ec2b2752bacc74699178195f.gif" width="400" height="250" align="right">
 
