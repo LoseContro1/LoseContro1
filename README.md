@@ -18,21 +18,13 @@ I enjoy writing clean code and understanding how things work under the hood.
 
 ---
  
-## LeetCode Lab
+## 🧠 LeetCode
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/LoseContro1?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LoseContro1&show_icons=true&theme=radical)
-</div>
-
----
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LoseContro1&color=blueviolet&style=plastic" />
-  ⭐️ From [Your Name](https://github.com/LoseContro1)
 </div>
