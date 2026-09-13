@@ -2,11 +2,22 @@
 
 ![](https://komarev.com/ghpvc/?username=LoseContro1&color=blueviolet&style=plastic)
 
-<img src="https://i.pinimg.com/originals/e4/4d/95/e44d9577ec2b2752bacc74699178195f.gif" width="400" height="250" align="right">
+---
 
-<a href="https://github.com/LoseContro1/MogoProject"></a>
+<br/>
 
+## LeetCode Lab
 
+<div align="center">
+<p>
+  Algorithms are not just tasks for me — they are a way to train clarity, patience and precision.
+</p>
+<img src="https://leetcard.jacoblin.cool/LoseContro1?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</div>
+
+<br/>
+
+---
 
 
 
