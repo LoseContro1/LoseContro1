@@ -5,10 +5,10 @@
 
 <br/>
 
-## LeetCode Lab
-
 <div align="center">
   
+## LeetCode Lab
+
 <img src="https://leetcard.jacoblin.cool/LoseContro1?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
   
 </div>
