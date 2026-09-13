@@ -1,6 +1,8 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=C119F7&center=true&repeat=false&width=800&height=100&lines=LoseContro1+Prodaction!" alt="Typing SVG" /></a></p>
 <br/>
+
 ---
+
 <br/>
 
 ## LeetCode Lab
